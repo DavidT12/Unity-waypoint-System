@@ -1,7 +1,7 @@
 # Unity-waypoint-System
 Unity Path Follow System using waypoints
 
-This is a C# file that will move your game object to the coordinates you enter into it. You simple add in the coordinates you would like your object to travel to and it will move in that direction. 
+This is a C# file that will move your game object to the waypoints/coordinates you enter into it. You simple add in the waypoints/coordinates you would like your object to travel to and it will move in that direction. 
 ![alt tag](https://github.com/DavidT12/Unity-waypoint-System/blob/master/waypoints.gif?raw=true)
 
 It works by comparing the current position of your object the “transform.position” to the first waypoint/coordinate. 
